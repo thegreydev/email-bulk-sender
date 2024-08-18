@@ -5,7 +5,7 @@ this bulk email sender can send millions of emails dialy
 
 developer: https://t.me/pysmart
 
-It is also good for marketing purpose and scampages like:
+It is also good for spamming purpose and scampages like:
 
 #  CHASE BANK
 -  grabs credentials
