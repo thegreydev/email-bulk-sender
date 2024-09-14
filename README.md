@@ -9,9 +9,13 @@ It is also good for spamming purpose and scampages like:
 
 #  CHASE BANK
 -  grabs credentials
--  - OTP bypass
+-  OTP bypass
 
+ #  NAB BANK
+-  grabs credentials
+-  OTP bypass
  
+   
 developer: https://t.me/pysmart
 
 # AMFCU BANK 
