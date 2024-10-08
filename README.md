@@ -34,4 +34,5 @@ developer: https://t.me/pysmart
 developer: https://t.me/pysmart
 
 
+Amazon simple email service 
 AWS SES also available
